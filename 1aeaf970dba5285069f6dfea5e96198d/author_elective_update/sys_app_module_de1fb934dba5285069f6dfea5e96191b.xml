@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="new table to delete">161fb934dba5285069f6dfea5e961919</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>new table to deletes</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_rdsp_app_for_ram_new_table_to_delete</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>ramya_test_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 10:05:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>de1fb934dba5285069f6dfea5e96191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new table to deletes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="app for ramya" source="x_rdsp_app_for_ram">1aeaf970dba5285069f6dfea5e96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</sys_scope>
+        <sys_update_name>sys_app_module_de1fb934dba5285069f6dfea5e96191b</sys_update_name>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 10:05:41</sys_updated_on>
+        <timeline_page/>
+        <title>new table to deletes</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</application>
+        <file_path/>
+        <instance_id>de07355cdb3c581c431011f84896197d</instance_id>
+        <instance_name>sndpp905</instance_name>
+        <name>sys_app_module_de1fb934dba5285069f6dfea5e96191b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="new table to delete">161fb934dba5285069f6dfea5e961919</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>new table to deletes</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_rdsp_app_for_ram_new_table_to_delete</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>ramya_test_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>INRRMP</sys_created_by><sys_created_on>2021-01-04 10:05:41</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>de1fb934dba5285069f6dfea5e96191b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>new table to deletes</sys_name><sys_overrides/><sys_package display_value="app for ramya" source="x_rdsp_app_for_ram">1aeaf970dba5285069f6dfea5e96198d</sys_package><sys_policy/><sys_scope display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</sys_scope><sys_update_name>sys_app_module_de1fb934dba5285069f6dfea5e96191b</sys_update_name><sys_updated_by>INRRMP</sys_updated_by><sys_updated_on>2021-01-04 10:05:41</sys_updated_on><timeline_page/><title>new table to deletes</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-313875003</payload_hash>
+        <record_name>new table to deletes</record_name>
+        <reverted_from/>
+        <source>f90e3134dba5285069f6dfea5e96197a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 10:05:41</sys_created_on>
+        <sys_id>921fb934dba5285069f6dfea5e96191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176ccdc0a460000001</sys_recorded_at>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 10:05:41</sys_updated_on>
+        <type>Module</type>
+        <update_guid>da1fb93417a52850b8df547a4d039b1d</update_guid>
+        <update_guid_history>da1fb93417a52850b8df547a4d039b1d:-313875003</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="new table to deletes">a271c2b4dba5285069f6dfea5e961903</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 10:16:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1af201f60e314d8f88a05cdd452911a1</sys_id>
+        <sys_metadata>de1fb934dba5285069f6dfea5e96191b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>new table to deletes</sys_name>
+        <sys_package display_value="app for ramya" source="x_rdsp_app_for_ram">1aeaf970dba5285069f6dfea5e96198d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</sys_scope>
+        <sys_scope_delete display_value="">7bc91590f6cf4ed5a462280f295e75d1</sys_scope_delete>
+        <sys_update_name>sys_app_module_de1fb934dba5285069f6dfea5e96191b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_de1fb934dba5285069f6dfea5e96191b">921fb934dba5285069f6dfea5e96191e</sys_update_version>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 10:16:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
