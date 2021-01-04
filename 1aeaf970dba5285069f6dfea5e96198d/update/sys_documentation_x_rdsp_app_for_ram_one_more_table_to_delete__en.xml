@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="one more table to delete" language="en" table="x_rdsp_app_for_ram_one_more_table_to_delete">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>one more table to delete</label>
+            <language>en</language>
+            <name>x_rdsp_app_for_ram_one_more_table_to_delete</name>
+            <plural>one more table to deletes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>INRRMP</sys_created_by>
+            <sys_created_on>2021-01-04 10:43:44</sys_created_on>
+            <sys_id>bfc782b8dba5285069f6dfea5e9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>one more table to delete</sys_name>
+            <sys_package display_value="app for ramya" source="x_rdsp_app_for_ram">1aeaf970dba5285069f6dfea5e96198d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</sys_scope>
+            <sys_update_name>sys_documentation_x_rdsp_app_for_ram_one_more_table_to_delete__en</sys_update_name>
+            <sys_updated_by>INRRMP</sys_updated_by>
+            <sys_updated_on>2021-01-04 10:43:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
