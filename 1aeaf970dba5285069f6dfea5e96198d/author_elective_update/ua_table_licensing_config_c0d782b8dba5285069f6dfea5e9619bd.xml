@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_rdsp_app_for_ram_one_more_table_to_delete</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 10:43:45</sys_created_on>
+        <sys_id>c0d782b8dba5285069f6dfea5e9619bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_rdsp_app_for_ram_one_more_table_to_delete</sys_name>
+        <sys_package display_value="app for ramya" source="x_rdsp_app_for_ram">1aeaf970dba5285069f6dfea5e96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</sys_scope>
+        <sys_update_name>ua_table_licensing_config_c0d782b8dba5285069f6dfea5e9619bd</sys_update_name>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 10:43:45</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</application>
+        <file_path/>
+        <instance_id>de07355cdb3c581c431011f84896197d</instance_id>
+        <instance_name>sndpp905</instance_name>
+        <name>ua_table_licensing_config_c0d782b8dba5285069f6dfea5e9619bd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_rdsp_app_for_ram_one_more_table_to_delete</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>INRRMP</sys_created_by><sys_created_on>2021-01-04 10:43:45</sys_created_on><sys_id>c0d782b8dba5285069f6dfea5e9619bd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_rdsp_app_for_ram_one_more_table_to_delete</sys_name><sys_package display_value="app for ramya" source="x_rdsp_app_for_ram">1aeaf970dba5285069f6dfea5e96198d</sys_package><sys_policy/><sys_scope display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</sys_scope><sys_update_name>ua_table_licensing_config_c0d782b8dba5285069f6dfea5e9619bd</sys_update_name><sys_updated_by>INRRMP</sys_updated_by><sys_updated_on>2021-01-04 10:43:45</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>1403105879</payload_hash>
+        <record_name>x_rdsp_app_for_ram_one_more_table_to_delete</record_name>
+        <reverted_from/>
+        <source>f90e3134dba5285069f6dfea5e96197a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 10:43:45</sys_created_on>
+        <sys_id>c4d782b8dba5285069f6dfea5e9619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176ccfee5c50000001</sys_recorded_at>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 10:43:45</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>00d782b8eaa528509b7130d6fc46a9bf</update_guid>
+        <update_guid_history>00d782b8eaa528509b7130d6fc46a9bf:1403105879</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 10:45:24</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>d2782ff0be064fec82fc65d9a9cb2b90</sys_id>
+        <sys_metadata>c0d782b8dba5285069f6dfea5e9619bd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_rdsp_app_for_ram_one_more_table_to_delete</sys_name>
+        <sys_package display_value="app for ramya" source="x_rdsp_app_for_ram">1aeaf970dba5285069f6dfea5e96198d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</sys_scope>
+        <sys_scope_delete display_value="">7bc91590f6cf4ed5a462280f295e75d1</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_c0d782b8dba5285069f6dfea5e9619bd</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_c0d782b8dba5285069f6dfea5e9619bd">c4d782b8dba5285069f6dfea5e9619bf</sys_update_version>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 10:45:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
