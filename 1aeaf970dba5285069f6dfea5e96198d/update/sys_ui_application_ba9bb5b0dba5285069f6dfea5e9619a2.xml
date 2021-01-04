@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>table to delete</name>
+        <order/>
+        <roles>ramya_test_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 09:50:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba9bb5b0dba5285069f6dfea5e9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table to delete</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="app for ramya" source="x_rdsp_app_for_ram">1aeaf970dba5285069f6dfea5e96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</sys_scope>
+        <sys_update_name>sys_ui_application_ba9bb5b0dba5285069f6dfea5e9619a2</sys_update_name>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 09:50:26</sys_updated_on>
+    </sys_ui_application>
+</record_update>

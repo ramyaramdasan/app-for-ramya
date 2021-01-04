@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>app for ramya Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_rdsp_app_for_ram_app_for_ramya_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>ramya_test_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>INRRMP</sys_created_by>
+        <sys_created_on>2021-01-04 09:47:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>93ea7d70dba5285069f6dfea5e961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>app for ramya Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="app for ramya" source="x_rdsp_app_for_ram">1aeaf970dba5285069f6dfea5e96198d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</sys_scope>
+        <sys_update_name>sys_app_module_93ea7d70dba5285069f6dfea5e961956</sys_update_name>
+        <sys_updated_by>INRRMP</sys_updated_by>
+        <sys_updated_on>2021-01-04 09:47:27</sys_updated_on>
+        <timeline_page/>
+        <title>app for ramya Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
