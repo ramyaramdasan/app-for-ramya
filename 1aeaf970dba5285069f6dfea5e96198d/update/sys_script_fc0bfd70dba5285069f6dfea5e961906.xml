@@ -17,7 +17,8 @@
         <execute_function>false</execute_function>
         <filter_condition/>
         <is_rest>false</is_rest>
-        <message><![CDATA[<p>test</p>]]></message>
+        <message><![CDATA[<p>test</p>
+<p>//opne more line</p>]]></message>
         <name>business rule for ramya</name>
         <order>100</order>
         <priority>100</priority>
@@ -38,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fc0bfd70dba5285069f6dfea5e961906</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>business rule for ramya</sys_name>
         <sys_overrides/>
         <sys_package display_value="app for ramya" source="x_rdsp_app_for_ram">1aeaf970dba5285069f6dfea5e96198d</sys_package>
@@ -46,7 +47,7 @@
         <sys_scope display_value="app for ramya">1aeaf970dba5285069f6dfea5e96198d</sys_scope>
         <sys_update_name>sys_script_fc0bfd70dba5285069f6dfea5e961906</sys_update_name>
         <sys_updated_by>INRRMP</sys_updated_by>
-        <sys_updated_on>2021-01-18 05:18:25</sys_updated_on>
+        <sys_updated_on>2021-01-18 05:20:37</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
