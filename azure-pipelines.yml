@@ -9,16 +9,12 @@ trigger:
 pool:
   vmImage: ubuntu-latest
 
-steps:
-- task: InvokeRESTAPI@1
-          inputs:
-          connectionType: 'connectedServiceName'
-            serviceConnection: 'shellbreadboard2-ServiceNow PoC-Generic Connection'
-            method: 'POST'
-            body: |
-            {
-              "buildNumber": "$(build.buildId)",
-              "isMultiBranch": "true",
-              "branchName": "$(build.sourceBranchName)"
-            }
-            waitForCompletion: 'true'
+jobs:
+  - job: ReleaseGate
+    steps:
+      - task: InvokeRESTAPI@1
+    displayName: 'Invoke REST API: POST'
+    inputs:
+      connectedServiceName: 7edc7064-e590-4f62-93e7-524977f989ad
+      body: " {\n            \"releaseNumber\": \"$(Release.ReleaseId)\",\n            \"projectName\": \"$(System.TeamProject)\"\n         }\n  "
+      waitForCompletion: 'true'
