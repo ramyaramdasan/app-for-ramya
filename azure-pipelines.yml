@@ -11,14 +11,14 @@ pool:
 
 steps:
 - task: InvokeRESTAPI@1
-      inputs:
-        connectionType: 'connectedServiceName'
-          serviceConnection: 'shellbreadboard2-ServiceNow PoC-Generic Connection'
-          method: 'POST'
-          body: |
-          {
+          inputs:
+          connectionType: 'connectedServiceName'
+            serviceConnection: 'shellbreadboard2-ServiceNow PoC-Generic Connection'
+            method: 'POST'
+            body: |
+            {
               "buildNumber": "$(build.buildId)",
               "isMultiBranch": "true",
               "branchName": "$(build.sourceBranchName)"
-          }
-          waitForCompletion: 'true'
+            }
+            waitForCompletion: 'true'
