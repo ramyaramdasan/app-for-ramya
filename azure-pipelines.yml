@@ -13,8 +13,8 @@ jobs:
   - job: ReleaseGate
     steps:
       - task: InvokeRESTAPI@1
-    displayName: 'Invoke REST API: POST'
-    inputs:
-      connectedServiceName: 7edc7064-e590-4f62-93e7-524977f989ad
-      body: " {\n            \"releaseNumber\": \"$(Release.ReleaseId)\",\n            \"projectName\": \"$(System.TeamProject)\"\n         }\n  "
-      waitForCompletion: 'true'
+        displayName: 'Invoke REST API: POST'
+        inputs:
+          connectedServiceName: 7edc7064-e590-4f62-93e7-524977f989ad
+          body: " {\n            \"releaseNumber\": \"$(Release.ReleaseId)\",\n            \"projectName\": \"$(System.TeamProject)\"\n         }\n  "
+          waitForCompletion: 'true'
